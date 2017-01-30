@@ -14,3 +14,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 [link](http://google.com)
 ![firma.JPG]({{site.baseurl}}/_posts/firma.JPG)
 
+[link](http://google.com)
+![firma.JPG]({{site.baseurl}}/_posts/firma.JPG)
+
